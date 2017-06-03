@@ -214,7 +214,7 @@
     <EmbeddedResource Include="Resources\Resources.en-US.resx" />
     <EmbeddedResource Include="Resources\Resources.mk-MK.resx" />
     <EmbeddedResource Include="Resources\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
+      <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
